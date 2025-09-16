@@ -3,7 +3,7 @@
 	"package": "be.breroeluean.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"HolySwimmingMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
